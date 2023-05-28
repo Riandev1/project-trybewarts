@@ -15,3 +15,15 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   }
 });
+
+
+const agreementCheckbox = document.getElementById('agreement');
+const submitButton = document.getElementById('submit-btn');
+
+agreementCheckbox.addEventListener('change', () => {
+  if (agreementCheckbox.checked) {
+    submitButton.disabled = false;
+  } else {
+    submitButton.disabled = true;
+  }
+});
