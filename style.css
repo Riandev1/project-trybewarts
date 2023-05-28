@@ -28,11 +28,18 @@ main {
   height: 500px;
   float: right;
 }
-
 .name-container {
   display: flex;
 }
-
 #input-name {
   margin-right: 10px;
 }
+
+#input-email {
+  margin-right: 10px;
+  width: 300px;
+}
+
+#house {
+  margin-left: auto;
+} 
