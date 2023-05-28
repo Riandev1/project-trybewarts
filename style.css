@@ -51,7 +51,7 @@ main {
   margin-bottom: 15px;
 }
 
-#input-name,
+
 #input-lastname {
   margin-right: 10px;
   padding: 8px;
@@ -79,12 +79,10 @@ main {
 
 #label-family {
   margin-top: 15px;
-  font-weight: bold;
 }
 
 #label-content {
   margin-top: 15px;
-  font-weight: bold;
 }
 
 .subject {
@@ -93,7 +91,6 @@ main {
 
 #label-rate {
   margin-top: 15px;
-  font-weight: bold;
 }
 
 #textarea {
