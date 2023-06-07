@@ -6,6 +6,13 @@
   padding: 10px;
   color: white;
 }
+body {
+  background-image: url('');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 
 .trybewarts-login {
   display: flex;
