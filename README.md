@@ -21,6 +21,6 @@ Este foi o primeiro projeto em dupla da Trybe, onde praticamos **pair programmin
 ---
 
 ## Print da página:
-![Print da página](![1743005856669](https://github.com/user-attachments/assets/4f5f7466-887e-46c6-854e-7e5624b118d8)
+![1743005856669](https://github.com/user-attachments/assets/4f5f7466-887e-46c6-854e-7e5624b118d8)
 
 
